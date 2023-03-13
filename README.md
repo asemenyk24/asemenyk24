@@ -22,7 +22,7 @@
 </div>
 
 ### 👨‍💻About me:
-I am a student of "TOP Comuter Academy".
+I am a student of "TOP Computer Academy".
 - 🔭 I'm searching for some new expirience in programming, doing my best to learn everything I can.
 - ⚡ Mostly dedicated to Python. Hope I'll become good data-scientist.
 - 🐾 Aside programming I enjoy some sports. Workout, climbing and snowboarding.
